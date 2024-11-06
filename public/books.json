@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "book_name": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "book_img": "https://i.ibb.co.com/dLb9WSp/favpng-the-fault-in-our-stars-brand-font.png",
+    "rating": 4.5,
+    "total_page": 374,
+    "type": "Dystopian",
+    "tags": ["Adventure", "Survival"],
+    "summary": "Thomas awakens in a maze with no memory, joining other boys who        solve the deadly puzzle to escape and uncover the truth about their captivity."
+  },
+
+
+  {
+    "id": 2,
+    "book_name": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "book_img": "https://i.ibb.co.com/dLb9WSp/favpng-the-fault-in-our-stars-brand-font.png",
+    "rating": 4.8,
+    "total_page": 309,
+    "type": "Fantasy",
+    "tags": ["Adventure", "Survival"],
+     "summary": "Miles Halter searches for deeper meaning in life after befriending Alaska Young, a mysterious girl with whom he shares an intense connection."
+  },
+  {
+    "id": 3,
+    "book_name": "The Fault in Our Stars",
+    "author": "John Green",
+    "book_img": "https://i.ibb.co.com/dLb9WSp/favpng-the-fault-in-our-stars-brand-font.png",
+    "rating": 4.3,
+    "total_page": 313,
+    "type": "Romance",
+    "tags": ["Adventure", "Survival"],
+     "summary": "Miles Halter searches for deeper meaning in life after befriending Alaska Young, a mysterious girl with whom he shares an intense connection."
+  },
+  {
+    "id": 4,
+    "book_name": "Divergent",
+    "author": "Veronica Roth",
+    "book_img": "https://i.ibb.co.com/dLb9WSp/favpng-the-fault-in-our-stars-brand-font.png",
+    "rating": 4.2,
+    "total_page": 487,
+    "type": "Dystopian",
+    "tags": ["Adventure", "Survival"],
+     "summary": "Miles Halter searches for deeper meaning in life after befriending Alaska Young, a mysterious girl with whom he shares an intense connection."
+  },
+  {
+    "id": 5,
+    "book_name": "To All the Boys I've Loved Before",
+    "author": "Jenny Han",
+    "book_img": "https://i.ibb.co.com/dLb9WSp/favpng-the-fault-in-our-stars-brand-font.png",
+    "rating": 4.1,
+    "total_page": 355,
+    "type": "Romance",
+    "tags": ["Adventure", "Survival"],
+     "summary": "Miles Halter searches for deeper meaning in life after befriending Alaska Young, a mysterious girl with whom he shares an intense connection."
+  },
+  {
+    "id": 6,
+    "book_name": "Percy Jackson & the Olympians: The Lightning Thief",
+    "author": "Rick Riordan",
+    "book_img": "https://i.ibb.co.com/dLb9WSp/favpng-the-fault-in-our-stars-brand-font.png",
+    "rating": 4.6,
+    "total_page": 377,
+    "type": "Fantasy",
+    "tags": ["Adventure", "Survival"],
+     "summary": "Miles Halter searches for deeper meaning in life after befriending Alaska Young, a mysterious girl with whom he shares an intense connection."
+  },
+  {
+    "id": 7,
+    "book_name": "Twilight",
+    "author": "Stephenie Meyer",
+    "book_img": "https://i.ibb.co.com/dLb9WSp/favpng-the-fault-in-our-stars-brand-font.png",
+    "rating": 3.9,
+    "total_page": 498,
+    "type": "Romance",
+    "tags": ["Adventure", "Survival"],
+     "summary": "Miles Halter searches for deeper meaning in life after befriending Alaska Young, a mysterious girl with whom he shares an intense connection."
+  },
+  {
+    "id": 8,
+    "book_name": "The Maze Runner",
+    "author": "James Dashner",
+    "book_img": "https://i.ibb.co.com/dLb9WSp/favpng-the-fault-in-our-stars-brand-font.png",
+    "rating": 4.0,
+    "total_page": 384,
+    "type": "Science Fiction",
+    "tags": ["Adventure", "Survival"],
+     "summary": "Miles Halter searches for deeper meaning in life after befriending Alaska Young, a mysterious girl with whom he shares an intense connection."
+  },
+  {
+    "id": 10,
+    "book_name": "Looking for Alaska",
+    "author": "John Green",
+    "book_img": "https://i.ibb.co.com/dLb9WSp/favpng-the-fault-in-our-stars-brand-font.png",
+    "rating": 4.1,
+    "total_page": 272,
+    "type": "Young Adult",
+    "tags": ["Adventure", "Survival"],
+     "summary": "Miles Halter searches for deeper meaning in life after befriending Alaska Young, a mysterious girl with whom he shares an intense connection."
+  }
+]
